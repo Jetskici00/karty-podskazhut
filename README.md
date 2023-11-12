@@ -1,4 +1,4 @@
-# Sprint №2 YandexPracticum
+# Sprint №3YandexPracticum
 ## Готовый кейс "Карты подскажут"
 
 **Использовались:** HTML CSS JS
